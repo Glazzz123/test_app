@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Contact Form",
+        "fields": {
+            "email": "email",
+            "phone_number": "phone"
+        }
+    },
+    {
+        "name": "Order Form",
+        "fields": {
+            "order_date": "date",
+            "user_email": "email"
+        }
+    }
+]
